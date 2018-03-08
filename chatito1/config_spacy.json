@@ -1,0 +1,8 @@
+{
+    "pipeline": "spacy_sklearn",
+    "path" : "./chatito1_project",
+    "data" : "./dataset.json",
+    "language" : "en",
+    "spacy_model_name" : "en_core_web_lg"
+}
+  
